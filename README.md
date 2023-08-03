@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr Suvernev
 - 👀 I’m interested in DA
-- 🌱 I’m currently learning in Practicim
+- 🌱 I’m currently learning in Practicum
   
 
 <!---
