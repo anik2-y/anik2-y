@@ -2,7 +2,7 @@
 - 👀 I’m interested in DA
 - 🌱 I’m currently learning in Practicum
   
-#### Languages and Tools:
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="AWS" alt="AWS" width="35" height="35"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="AWS" alt="AWS" width="35" height="35"/>&nbsp&nbsp;
