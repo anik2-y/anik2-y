@@ -1,6 +1,8 @@
 ### Hi, I’m Aleksandr Suvernev 👋
 - 👀 I’m interested in DA
 - 🌱 I’m currently learning in Practicum
+
+## I’m actively looking for a job as DA
   
 ### Languages and Tools:
 <div>
