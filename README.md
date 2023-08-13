@@ -2,7 +2,7 @@
 - 👀 I’m interested in DA
 - 🌱 I’m currently learning in Practicum
 
-## I’m actively looking for a job as Data Analyst
+## I’m actively looking for a job as a Data Analyst
   
 ### Languages and Tools:
 <div>
